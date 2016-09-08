@@ -47,6 +47,7 @@
 		283722811D81D20D008D74D6 /* MiniRetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniRetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		283722851D81D20D008D74D6 /* MiniRetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniRetoUITests.swift; sourceTree = "<group>"; };
 		283722871D81D20E008D74D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		283722931D81D434008D74D6 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				2837226C1D81D209008D74D6 /* Assets.xcassets */,
 				2837226E1D81D209008D74D6 /* LaunchScreen.storyboard */,
 				283722711D81D209008D74D6 /* Info.plist */,
+				283722931D81D434008D74D6 /* miniReto.playground */,
 			);
 			path = MiniReto;
 			sourceTree = "<group>";
